@@ -135,134 +135,20 @@ CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o: /usr/loca
 CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o: /usr/local/include/opencv2/xfeatures2d/cuda.hpp
 CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o: /usr/local/include/opencv2/xfeatures2d/nonfree.hpp
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: ../Board\ Segmentation/headers/BoardSegmentationTesting.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: ../Board\ Segmentation/headers/IlluminationCorrection.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: ../Board\ Segmentation/source/BoardSegmentationTesting.cpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: ../MetaFrame.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv/cv.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv/cxcore.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv/highgui.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/calib3d.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/calib3d/calib3d_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/affine.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/base.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/bufferpool.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/core.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/core_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/cuda.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/cuda.inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/cuda_types.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/cvdef.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/cvstd.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/cvstd.inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/fast_math.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/hal/interface.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/mat.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/mat.inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/matx.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/neon_utils.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/operations.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/optim.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/persistence.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/ptr.inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/saturate.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/traits.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/types.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/types_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/utility.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/core/version.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/features2d.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/all_indices.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/allocator.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/any.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/autotuned_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/composite_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/config.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/defines.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/dist.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/dynamic_bitset.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/flann_base.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/general.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/ground_truth.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/heap.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/hierarchical_clustering_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/index_testing.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/kdtree_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/kdtree_single_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/kmeans_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/linear_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/logger.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/lsh_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/lsh_table.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/matrix.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/miniflann.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/nn_index.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/params.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/random.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/result_set.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/sampling.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/saving.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/flann/timer.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/highgui.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/highgui/highgui_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/imgcodecs.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/imgcodecs/imgcodecs_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/imgproc.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/imgproc/imgproc_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/imgproc/types_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/ml.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/objdetect.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/objdetect/detection_based_tracker.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/objdetect/objdetect_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/opencv.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/opencv_modules.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/photo.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/photo/photo_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/shape.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/shape/emdL1.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/shape/hist_cost.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/shape/shape_distance.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/shape/shape_transformer.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/blenders.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/camera.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/exposure_compensate.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/matchers.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/motion_estimators.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/seam_finders.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/util.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/util_inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/warpers.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/detail/warpers_inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/stitching/warpers.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/superres.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/superres/optical_flow.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/video.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/video/background_segm.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/video/tracking.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/video/tracking_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videoio.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videoio/videoio_c.h
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/deblurring.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/fast_marching.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/fast_marching_inl.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/frame_source.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/global_motion.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/inpainting.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/log.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/motion_core.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/motion_stabilizing.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/optical_flow.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/outlier_rejection.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/ring_buffer.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/stabilizer.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/videostab/wobble_suppression.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/xfeatures2d.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/xfeatures2d/cuda.hpp
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: /usr/local/include/opencv2/xfeatures2d/nonfree.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: ../Board\ Segmentation/headers/HelperMethods.h
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: ../Board\ Segmentation/source/HelperMethods.cpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/base.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/cvdef.h
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/cvstd.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/fast_math.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/hal/interface.h
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/matx.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/neon_utils.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/ptr.inl.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/saturate.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/traits.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/core/types.hpp
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: /usr/local/include/opencv2/opencv_modules.hpp
 
 CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o: ../Board\ Segmentation/headers/IlluminationCorrection.h
 CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o: ../Board\ Segmentation/source/IlluminationCorrection.cpp
@@ -2208,7 +2094,6 @@ CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o: /usr/local/inclu
 CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o: /usr/local/include/opencv2/xfeatures2d/nonfree.hpp
 
 CMakeFiles/Track4K.dir/mainDriver.cpp.o: ../Board\ Segmentation/headers/BoardDetection.h
-CMakeFiles/Track4K.dir/mainDriver.cpp.o: ../Board\ Segmentation/headers/BoardSegmentationTesting.h
 CMakeFiles/Track4K.dir/mainDriver.cpp.o: ../Board\ Segmentation/headers/IlluminationCorrection.h
 CMakeFiles/Track4K.dir/mainDriver.cpp.o: ../Board\ Segmentation/headers/Track4KPreProcess.h
 CMakeFiles/Track4K.dir/mainDriver.cpp.o: ../CodeTimer.h

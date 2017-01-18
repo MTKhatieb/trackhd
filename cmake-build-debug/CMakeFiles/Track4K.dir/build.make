@@ -489,28 +489,28 @@ CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.provides: CMakeFiles/Track4K.
 CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.provides.build: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o
 
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o: ../Board\ Segmentation/source/BoardSegmentationTesting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/BoardSegmentationTesting.cpp"
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: ../Board\ Segmentation/source/HelperMethods.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/HelperMethods.cpp"
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/BoardSegmentationTesting.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.i
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/HelperMethods.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.i
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/BoardSegmentationTesting.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.s
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/HelperMethods.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.s
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.requires:
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.provides
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o
+CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o
 
 
 # Object files for target Track4K
@@ -533,7 +533,7 @@ Track4K_OBJECTS = \
 "CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o" \
 "CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o" \
 "CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o" \
-"CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o"
+"CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o"
 
 # External object files for target Track4K
 Track4K_EXTERNAL_OBJECTS =
@@ -556,7 +556,7 @@ Track4K: CMakeFiles/Track4K.dir/PointPlotter.cpp.o
 Track4K: CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o
 Track4K: CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o
 Track4K: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o
+Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o
 Track4K: CMakeFiles/Track4K.dir/build.make
 Track4K: /usr/local/lib/libopencv_stitching.so.3.1.0
 Track4K: /usr/local/lib/libopencv_superres.so.3.1.0
@@ -602,7 +602,7 @@ CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/PointPlotter.cpp.o.requi
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardSegmentationTesting.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires
 
 .PHONY : CMakeFiles/Track4K.dir/requires
 
