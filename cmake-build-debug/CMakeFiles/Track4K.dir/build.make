@@ -105,28 +105,28 @@ CMakeFiles/Track4K.dir/MetaFrame.cpp.o.provides: CMakeFiles/Track4K.dir/MetaFram
 CMakeFiles/Track4K.dir/MetaFrame.cpp.o.provides.build: CMakeFiles/Track4K.dir/MetaFrame.cpp.o
 
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o: ../Board\ Segmentation/source/Track4KPreProcess.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/Track4KPreProcess.cpp"
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o: ../segmentation/Track4KPreProcess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o -c /home/charles/Desktop/track4k/segmentation/Track4KPreProcess.cpp
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/Track4KPreProcess.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.i
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/segmentation/Track4KPreProcess.cpp > CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.i
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/Track4KPreProcess.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.s
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/segmentation/Track4KPreProcess.cpp -o CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.s
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.requires:
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.provides
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.provides: CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o
+CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.provides.build: CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o
 
 
 CMakeFiles/Track4K.dir/CodeTimer.cpp.o: CMakeFiles/Track4K.dir/flags.make
@@ -153,196 +153,196 @@ CMakeFiles/Track4K.dir/CodeTimer.cpp.o.provides: CMakeFiles/Track4K.dir/CodeTime
 CMakeFiles/Track4K.dir/CodeTimer.cpp.o.provides.build: CMakeFiles/Track4K.dir/CodeTimer.cpp.o
 
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o: ../Board\ Segmentation/source/IlluminationCorrection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/IlluminationCorrection.cpp"
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o: ../segmentation/IlluminationCorrection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o -c /home/charles/Desktop/track4k/segmentation/IlluminationCorrection.cpp
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/IlluminationCorrection.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.i
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/segmentation/IlluminationCorrection.cpp > CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.i
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/IlluminationCorrection.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.s
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/segmentation/IlluminationCorrection.cpp -o CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.s
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.requires:
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.provides
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.provides: CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o
-
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o: ../Board\ Segmentation/source/MotionDetection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/MotionDetection.cpp"
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/MotionDetection.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.i
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/MotionDetection.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.s
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.requires:
-
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.requires
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.provides
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o
+CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.provides.build: CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o
 
 
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o: ../Panning/source/VirtualCinematographer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o -c /home/charles/Desktop/track4k/Panning/source/VirtualCinematographer.cpp
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o: ../segmentation/MotionDetection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o -c /home/charles/Desktop/track4k/segmentation/MotionDetection.cpp
 
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Panning/source/VirtualCinematographer.cpp > CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.i
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/segmentation/MotionDetection.cpp > CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.i
 
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Panning/source/VirtualCinematographer.cpp -o CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.s
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/segmentation/MotionDetection.cpp -o CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.s
 
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.requires:
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.provides: CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.provides
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.provides: CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.provides.build: CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o
-
-
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o: ../Panning/source/VideoOutput.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o -c /home/charles/Desktop/track4k/Panning/source/VideoOutput.cpp
-
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Panning/source/VideoOutput.cpp > CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.i
-
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Panning/source/VideoOutput.cpp -o CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.s
-
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.requires:
-
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.requires
-
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.provides: CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.provides
-
-CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.provides.build: CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o
+CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.provides.build: CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o
 
 
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o: ../Panning/source/FrameCropper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o -c /home/charles/Desktop/track4k/Panning/source/FrameCropper.cpp
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o: ../panning/VirtualCinematographer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o -c /home/charles/Desktop/track4k/panning/VirtualCinematographer.cpp
 
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Panning/source/FrameCropper.cpp > CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.i
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/panning/VirtualCinematographer.cpp > CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.i
 
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Panning/source/FrameCropper.cpp -o CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.s
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/panning/VirtualCinematographer.cpp -o CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.s
 
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.requires:
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.provides: CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.provides
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.provides: CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.provides.build: CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o
-
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o: ../Board\ Segmentation/source/BoardDetection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/BoardDetection.cpp"
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/BoardDetection.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.i
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/BoardDetection.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.s
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.requires:
-
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.requires
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.provides
-
-CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o
+CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.provides.build: CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o
 
 
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o: ../Panning/source/PresenterMotion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o -c /home/charles/Desktop/track4k/Panning/source/PresenterMotion.cpp
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o: ../panning/VideoOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o -c /home/charles/Desktop/track4k/panning/VideoOutput.cpp
 
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Panning/source/PresenterMotion.cpp > CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.i
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/panning/VideoOutput.cpp > CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.i
 
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Panning/source/PresenterMotion.cpp -o CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.s
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/panning/VideoOutput.cpp -o CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.s
 
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.requires:
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.provides: CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.provides
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.provides: CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.provides.build: CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o
+CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.provides.build: CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o
 
 
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o: ../Panning/source/PanLogic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o -c /home/charles/Desktop/track4k/Panning/source/PanLogic.cpp
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o: ../panning/FrameCropper.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o -c /home/charles/Desktop/track4k/panning/FrameCropper.cpp
 
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Panning/source/PanLogic.cpp > CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.i
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/panning/FrameCropper.cpp > CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.i
 
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Panning/source/PanLogic.cpp -o CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.s
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/panning/FrameCropper.cpp -o CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.s
 
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.requires:
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.provides: CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.provides
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.provides: CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.provides.build: CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o
+CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.provides.build: CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o
+
+
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o: ../segmentation/BoardDetection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o -c /home/charles/Desktop/track4k/segmentation/BoardDetection.cpp
+
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/segmentation/BoardDetection.cpp > CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.i
+
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/segmentation/BoardDetection.cpp -o CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.s
+
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.requires:
+
+.PHONY : CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.requires
+
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.provides: CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.provides
+
+CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.provides.build: CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o
+
+
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o: ../panning/PresenterMotion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o -c /home/charles/Desktop/track4k/panning/PresenterMotion.cpp
+
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/panning/PresenterMotion.cpp > CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.i
+
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/panning/PresenterMotion.cpp -o CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.s
+
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.requires:
+
+.PHONY : CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.requires
+
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.provides: CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.provides
+
+CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.provides.build: CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o
+
+
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o: ../panning/PanLogic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o -c /home/charles/Desktop/track4k/panning/PanLogic.cpp
+
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/panning/PanLogic.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/panning/PanLogic.cpp > CMakeFiles/Track4K.dir/panning/PanLogic.cpp.i
+
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/panning/PanLogic.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/panning/PanLogic.cpp -o CMakeFiles/Track4K.dir/panning/PanLogic.cpp.s
+
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.requires:
+
+.PHONY : CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.requires
+
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.provides: CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.provides
+
+CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.provides.build: CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o
 
 
 CMakeFiles/Track4K.dir/mainDriver.cpp.o: CMakeFiles/Track4K.dir/flags.make
@@ -417,146 +417,146 @@ CMakeFiles/Track4K.dir/PointPlotter.cpp.o.provides: CMakeFiles/Track4K.dir/Point
 CMakeFiles/Track4K.dir/PointPlotter.cpp.o.provides.build: CMakeFiles/Track4K.dir/PointPlotter.cpp.o
 
 
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o: ../Tracking/source/RecognitionDriver.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o -c /home/charles/Desktop/track4k/Tracking/source/RecognitionDriver.cpp
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o: ../tracking/RecognitionDriver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o -c /home/charles/Desktop/track4k/tracking/RecognitionDriver.cpp
 
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Tracking/source/RecognitionDriver.cpp > CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.i
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/tracking/RecognitionDriver.cpp > CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.i
 
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Tracking/source/RecognitionDriver.cpp -o CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.s
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/tracking/RecognitionDriver.cpp -o CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.s
 
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.requires:
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.provides: CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.provides
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.provides: CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.provides.build: CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o
-
-
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o: ../Tracking/source/MovementDetection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o -c /home/charles/Desktop/track4k/Tracking/source/MovementDetection.cpp
-
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Tracking/source/MovementDetection.cpp > CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.i
-
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Tracking/source/MovementDetection.cpp -o CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.s
-
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.requires:
-
-.PHONY : CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.requires
-
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.provides: CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.provides
-
-CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.provides.build: CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o
+CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.provides.build: CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o
 
 
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o: ../Tracking/source/Ghost.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o -c /home/charles/Desktop/track4k/Tracking/source/Ghost.cpp
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o: ../tracking/MovementDetection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o -c /home/charles/Desktop/track4k/tracking/MovementDetection.cpp
 
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/Tracking/source/Ghost.cpp > CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.i
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/tracking/MovementDetection.cpp > CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.i
 
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/Tracking/source/Ghost.cpp -o CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.s
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/tracking/MovementDetection.cpp -o CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.s
 
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.requires:
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.provides: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.provides
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.provides: CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.provides.build: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o
+CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.provides.build: CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o
 
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: CMakeFiles/Track4K.dir/flags.make
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o: ../Board\ Segmentation/source/HelperMethods.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o -c "/home/charles/Desktop/track4k/Board Segmentation/source/HelperMethods.cpp"
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o: ../tracking/Ghost.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o -c /home/charles/Desktop/track4k/tracking/Ghost.cpp
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/charles/Desktop/track4k/Board Segmentation/source/HelperMethods.cpp" > CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.i
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/tracking/Ghost.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/tracking/Ghost.cpp > CMakeFiles/Track4K.dir/tracking/Ghost.cpp.i
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/charles/Desktop/track4k/Board Segmentation/source/HelperMethods.cpp" -o CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.s
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/tracking/Ghost.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/tracking/Ghost.cpp -o CMakeFiles/Track4K.dir/tracking/Ghost.cpp.s
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires:
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.requires:
 
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires
+.PHONY : CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.requires
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides.build
-.PHONY : CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.provides: CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.provides
 
-CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.provides.build: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o
+CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.provides.build: CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o
+
+
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o: CMakeFiles/Track4K.dir/flags.make
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o: ../segmentation/HelperMethods.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/charles/Desktop/track4k/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o -c /home/charles/Desktop/track4k/segmentation/HelperMethods.cpp
+
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/charles/Desktop/track4k/segmentation/HelperMethods.cpp > CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.i
+
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/charles/Desktop/track4k/segmentation/HelperMethods.cpp -o CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.s
+
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.requires:
+
+.PHONY : CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.requires
+
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.provides: CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Track4K.dir/build.make CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.provides.build
+.PHONY : CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.provides
+
+CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.provides.build: CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o
 
 
 # Object files for target Track4K
 Track4K_OBJECTS = \
 "CMakeFiles/Track4K.dir/FileReader.cpp.o" \
 "CMakeFiles/Track4K.dir/MetaFrame.cpp.o" \
-"CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o" \
+"CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o" \
 "CMakeFiles/Track4K.dir/CodeTimer.cpp.o" \
-"CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o" \
-"CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o" \
-"CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o" \
-"CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o" \
-"CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o" \
-"CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o" \
-"CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o" \
-"CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o" \
+"CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o" \
+"CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o" \
+"CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o" \
+"CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o" \
+"CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o" \
+"CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o" \
+"CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o" \
+"CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o" \
 "CMakeFiles/Track4K.dir/mainDriver.cpp.o" \
 "CMakeFiles/Track4K.dir/PersistentData.cpp.o" \
 "CMakeFiles/Track4K.dir/PointPlotter.cpp.o" \
-"CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o" \
-"CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o" \
-"CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o" \
-"CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o"
+"CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o" \
+"CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o" \
+"CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o" \
+"CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o"
 
 # External object files for target Track4K
 Track4K_EXTERNAL_OBJECTS =
 
 Track4K: CMakeFiles/Track4K.dir/FileReader.cpp.o
 Track4K: CMakeFiles/Track4K.dir/MetaFrame.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o
+Track4K: CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o
 Track4K: CMakeFiles/Track4K.dir/CodeTimer.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o
+Track4K: CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o
+Track4K: CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o
+Track4K: CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o
+Track4K: CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o
+Track4K: CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o
+Track4K: CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o
+Track4K: CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o
+Track4K: CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o
 Track4K: CMakeFiles/Track4K.dir/mainDriver.cpp.o
 Track4K: CMakeFiles/Track4K.dir/PersistentData.cpp.o
 Track4K: CMakeFiles/Track4K.dir/PointPlotter.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o
-Track4K: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o
+Track4K: CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o
+Track4K: CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o
+Track4K: CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o
+Track4K: CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o
 Track4K: CMakeFiles/Track4K.dir/build.make
 Track4K: /usr/local/lib/libopencv_stitching.so.3.1.0
 Track4K: /usr/local/lib/libopencv_superres.so.3.1.0
@@ -586,23 +586,23 @@ CMakeFiles/Track4K.dir/build: Track4K
 
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/FileReader.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/MetaFrame.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/Track4KPreProcess.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/segmentation/Track4KPreProcess.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/CodeTimer.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/IlluminationCorrection.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/MotionDetection.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Panning/source/VirtualCinematographer.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Panning/source/VideoOutput.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Panning/source/FrameCropper.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/BoardDetection.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Panning/source/PresenterMotion.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Panning/source/PanLogic.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/segmentation/IlluminationCorrection.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/segmentation/MotionDetection.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/panning/VirtualCinematographer.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/panning/VideoOutput.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/panning/FrameCropper.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/segmentation/BoardDetection.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/panning/PresenterMotion.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/panning/PanLogic.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/mainDriver.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/PersistentData.cpp.o.requires
 CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/PointPlotter.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Tracking/source/RecognitionDriver.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Tracking/source/MovementDetection.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Tracking/source/Ghost.cpp.o.requires
-CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/Board_Segmentation/source/HelperMethods.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/tracking/RecognitionDriver.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/tracking/MovementDetection.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/tracking/Ghost.cpp.o.requires
+CMakeFiles/Track4K.dir/requires: CMakeFiles/Track4K.dir/segmentation/HelperMethods.cpp.o.requires
 
 .PHONY : CMakeFiles/Track4K.dir/requires
 
